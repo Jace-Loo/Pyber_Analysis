@@ -9,11 +9,11 @@ The purpose of analyzing this data is to view the relationship between the type 
 ## Results
 
 ### Comparing Urban cities, Suburban cities, and Rural areas
-![PyBer Summary Chart](Analysis/Fig8.png)
+![PyBer Summary Chart](Plots_and_Figures/Fig8.png)
 
 Comparisons of the data show that Rural areas have the fewest number of rides and drivers, Urban cities have the highest number of rides and drivers, and Suburban areas fall somewhere between. Naturally, due to supply and demand, the cost of a ride in Rural areas is much higher than in Urban cities due to fewer available drivers. The average fare per driver is similarly higher in Rural areas. Despite the higher average fare per ride in Rural areas, Urban cities and Suburban cities more than make up for the lost revenue in volume of rides. The total fare in Urban cities is almost ten times that of the total fare in Rural areas. This is visualized in the below figure:
 
-![Total Fares by City Multi-Line Graph](Analysis/Fig9.png)
+![Total Fares by City Multi-Line Graph](Plots_and_Figures/Fig9.png)
 
 ## Summary
 To help address the disparities between Urban cities, Suburban cities, and Rural areas, we would recommend:

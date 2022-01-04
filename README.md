@@ -13,7 +13,7 @@ The purpose of analyzing this data is to view the relationship between the type 
 
 Comparisons of the data show that Rural areas have the fewest number of rides and drivers, Urban cities have the highest number of rides and drivers, and Suburban areas fall somewhere between. 
 
-Naturally, due to supply and demand, the average cost of a ride in Rural areas is much higher than in Urban cities due to fewer available drivers. The average fare per driver is similarly higher in Rural areas. We can see visualized below the correlation between higher driver counts and higher number of rides with low average fare per ride. Rural areas with fewer drivers and fewer rides have a significantly higher fare per ride while Urban cities with high number of drivers and high number of rides have a significantly lower fare per ride. 
+Naturally, due to supply and demand, the average cost of a ride in Rural areas is much higher than in Urban cities due to fewer available drivers. The average fare per driver is similarly higher in Rural areas. We can see visualized below the correlation between higher driver counts and higher number of rides with low average fare per ride. Rural areas with fewer drivers and fewer rides have a significantly higher fare per ride while Urban cities with high number of drivers and high number of rides have a significantly lower fare per ride.
 
 ![Average Fares by City Type and Driver Count](Plots_and_Figures/Fig1.png)
 
